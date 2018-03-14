@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MecanimTest.CSharp", "MecanimTest.CSharp.csproj", "{F9462C3E-1B0A-A1CD-9B28-83EBD160AA4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MecanimTest.CSharp.Plugins", "MecanimTest.CSharp.Plugins.csproj", "{19B97886-3A45-879B-3ACE-CA144E913B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MecanimTest.CSharp.Editor.Plugins", "MecanimTest.CSharp.Editor.Plugins.csproj", "{7D86A1B0-C387-0C1F-44C6-7EB17A85F04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9462C3E-1B0A-A1CD-9B28-83EBD160AA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9462C3E-1B0A-A1CD-9B28-83EBD160AA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9462C3E-1B0A-A1CD-9B28-83EBD160AA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9462C3E-1B0A-A1CD-9B28-83EBD160AA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B97886-3A45-879B-3ACE-CA144E913B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B97886-3A45-879B-3ACE-CA144E913B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B97886-3A45-879B-3ACE-CA144E913B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B97886-3A45-879B-3ACE-CA144E913B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D86A1B0-C387-0C1F-44C6-7EB17A85F04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D86A1B0-C387-0C1F-44C6-7EB17A85F04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D86A1B0-C387-0C1F-44C6-7EB17A85F04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D86A1B0-C387-0C1F-44C6-7EB17A85F04A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
